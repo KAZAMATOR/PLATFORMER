@@ -1,0 +1,3 @@
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/cmake-build-debug/CMakeFiles/platformer.dir
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/cmake-build-debug/CMakeFiles/edit_cache.dir
