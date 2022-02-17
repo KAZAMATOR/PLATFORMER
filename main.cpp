@@ -8,7 +8,7 @@
 #include <sstream>
 
 
-
+///проверочка
 int main() {
     //смещение
     float map_displacement_x = 0,map_displacement_y = 0;
