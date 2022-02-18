@@ -129,7 +129,7 @@ int main() {
             (*OBJECT_IT)->update(time,MAP1);
             if( !(*OBJECT_IT)->isAlive()) {
                 if((*OBJECT_IT)->getType() == "player") GAME_OVER_FLAG = true;
-                OBJECT_LIST.erase(OBJECT_IT);
+                //OBJECT_LIST.erase(OBJECT_IT);
             }
         }
 

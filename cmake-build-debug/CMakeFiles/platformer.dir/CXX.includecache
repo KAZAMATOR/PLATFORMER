@@ -676,12 +676,6 @@ SFML/Config.hpp
 
 C:/SFML/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
 
-C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/classes2.0.cpp
-classes2.0.h
-C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/classes2.0.h
-cmath
-C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/cmath
-
 C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/classes2.0.h
 SFML/Graphics.hpp
 -
@@ -689,4 +683,22 @@ vector
 -
 iostream
 -
+
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+classes2.0.h
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/classes2.0.h
+maps.h
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/maps.h
+vector
+-
+list
+-
+sstream
+-
+
+C:/Users/Stepan/Desktop/IT/GAMES/platformer_2_beta/platformer_2/maps.h
 
